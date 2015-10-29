@@ -1,0 +1,91 @@
+body {
+  background-color: #E8E8E8;
+}
+
+header {
+  font-weight: 400;
+  font-family: 'Ultra',sans-serif;
+  font-size: 36px;
+  line-height: 42px;
+  color: #8fb34f;
+  text-transform: uppercase;
+  text-shadow: 0 2px white,0 3px #777;
+  position: relative;
+  top: 0;
+  width: 100%;
+  height: 40px;
+  background-color: #333;
+  padding: 20px;
+}
+
+/* Alternative graphic header done with css class instead of using header element.
+
+.boxed {
+  text-align: center;
+  border: 3px solid black ;
+  background-color: #B0B0B0 ;
+  width: 100%
+  height: 25%  
+  margin: 5em
+  padding: 25 em
+}
+ 
+*/
+
+h1,h2,h3 {
+  font-family: "Trebuchet MS",Helvetica,sans-serif;
+}
+
+.nav {
+  margin-top: 15px;
+}
+
+p {
+  font-family: Verdana,Geneva,sans-serif;
+}
+
+a {
+  color: #8fb34f;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+a:hover {
+  border: 1px solid red;
+  border-right: none;
+  border-left: none;
+}
+
+img {
+  padding: 1px;
+  border: 1px solid #021a40;
+  background-color: #ff0;
+}
+
+figcaption {
+  text-decoration-color: #2f4f4f;
+  text-align: left;
+  font-family: cursive;
+}
+
+li {
+  margin-top: 10px;
+}
+
+li:first-child {
+  margin-top: 0;
+}
+
+q {
+  quotes: "«" "»" "‹" "›";
+  font-family: cursive;
+}
+
+footer {
+  font-family: monospace;
+  display: inline;
+  padding-left: 18px;
+  margin-bottom: -26px;
+}
+
+/* Last validated 10/28/15 */
