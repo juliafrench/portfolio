@@ -75,12 +75,16 @@ figcaption {
   font-family: cursive;
 }
 
-li {
+
+fa-ul {
+  }
+
+fa-li {
   margin-top: 10px;
   font-family: Verdana,Geneva,sans-serif;
 }
 
-li:first-child {
+fa-li:first-child {
   margin-top: 0;
 }
 
