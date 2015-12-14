@@ -112,7 +112,7 @@ footer {
   background-color: #333;
   width: 100%;
   bottom: 0;
-  position: relative;
+  position: fixed;
   line-height: 3.5em;
   text-align: center;
 }
